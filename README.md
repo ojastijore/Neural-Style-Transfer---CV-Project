@@ -54,5 +54,5 @@ How to Run:
 
 Output: 
 
-The generated image is saved automatically in: C:\\Users\\asus\\Documents\\computer\_vision\_project\\output
+The generated image is saved automatically in desired folder
 
